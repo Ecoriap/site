@@ -8,4 +8,4 @@
 > >``` 5) cd /var/www/html/ ``` \
 > >``` 6) git clone https://github.com/Ecoledelaliberte/site.git ``` \
 > >``` 7) unzip  *.zip ../html```
-> >``` 7) taper l'adresse ip du serveur sur le naviguateur```
+> >``` 8) taper l'adresse ip du serveur sur le naviguateur``` \
