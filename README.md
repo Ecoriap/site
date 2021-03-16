@@ -1,7 +1,7 @@
 # Site
 
 > Installer le site sur linux
-> >``` 1) sudo apt install apache2 ```
+> >``` 1) sudo apt install apache2 ``` \
 > >``` 2) sudo chown -R pi:www-data /var/www/html/ ```
 > >``` 3) sudo chmod -R 770 /var/www/html/ ```
 > >``` 4) sudo chmod -R 770 /var/www/html/ ```
