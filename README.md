@@ -6,4 +6,5 @@
 > >``` sudo chmod -R 770 /var/www/html/ ```
 > >``` sudo chmod -R 770 /var/www/html/ ```
 > >``` cd /var/www/html/ ```
-> >``` cd /var/www/html/ ```
+> >``` git clone https://github.com/Ecoledelaliberte/site.git ```
+> >``` unzip  *.zip ../html```
