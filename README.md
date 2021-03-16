@@ -10,7 +10,7 @@
 > >``` 7) unzip  *.zip ../html``` \
 > >``` 8) taper l'adresse ip du serveur sur le naviguateur```
 
-> Installer le site sur windows [Pour plus d'info](https://raspberry-pi.fr/installer-serveur-web-raspberry-lamp/)
+> Installer le site sur windows [Pour plus d'info](https://fr.wikihow.com/installer-XAMPP-pour-Windows)
 > >``` 1) Télécharger et installer XAMPP [ici](https://www.apachefriends.org/fr/index.html)``` \
 > >``` 2) Télécharger le site [ici](https://github.com/Ecoledelaliberte/site/archive/main.zip) et déziper le dans le réperoire public du site (htdoc) ``` \
 > >``` 3) taper l'adresse ip du serveur sur le naviguateur ```
